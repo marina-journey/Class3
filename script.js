@@ -19,11 +19,11 @@ let falseString = "false";
 
 console.log(Boolean(trueString), Boolean(falseString));*/
 
-let num = 18;
+/*let num = 18;
 console.log(num);
 let age = +prompt("What is your age?");
 
-if (isNan() num === age) {
+if (num === age) {
   console.log("Allow");
 } else if (num < age) {
   console.log("Allow");
@@ -31,5 +31,33 @@ if (isNan() num === age) {
   console.log("Forbidden");
 }
 
-console.log("Game over");
+console.log("Game over");*/
+
+/*let typeOfAction = prompt("Enter action type");
+
+let CREATE_ACTION = "create";
+let READ_ACTION = "read";
+let UPDATE_ACTION = "update";
+let DELETE_ACTION = "delete";
+
+switch(typeOfAction) {
+  case CREATE_ACTION:
+    console.log("Create");
+    break;
+  case READ_ACTION:
+    console.log("Read");
+    break;
+  case UPDATE_ACTION:
+    console.log("Update");
+    break; 
+  case DELETE_ACTION:
+    console.log("Delete");
+    break;
+  default:
+    console.log("Default behavior");
+}*/
+
+
+
+
 
